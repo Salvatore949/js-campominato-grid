@@ -1,0 +1,14 @@
+#Element{
+    width:90px;
+    height:90px;
+    border:2px solid blue;
+}
+
+#containerSquare{
+    width: 60%;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+
